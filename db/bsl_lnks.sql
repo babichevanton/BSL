@@ -1,5 +1,3 @@
-TRUNCATE TABLE bsl_papers.links;
-
 INSERT 
 	INTO bsl_papers.links(id_link, text) 
 	VALUES ('1', 'A. Matt and M. Sallywan. Comparison of two measures. MGB journal London, 12 October 2007, pp. 13--19');

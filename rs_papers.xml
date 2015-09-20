@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <ReferenceSets>
      <ReferenceSet> 
-	  <Name>RS_papers</Name>
+	  <Name>rs_papers</Name>
 	  <Attributes>
 	       <Attr>author</Attr>
 	       <Attr>title</Attr>
@@ -10,7 +10,7 @@
 	       <Attr>pages</Attr>
 	  </Attributes>
 	  <Database>
-	       <URL>jdbc:odbc:BSL_papers</URL>
+	       <URL>jdbc:mysql://localhost/bsl_papers</URL>
 	       <Login>root</Login>
 	       <Password>1111</Password>
 	       <ID_Attr>id_attrs</ID_Attr>

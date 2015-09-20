@@ -1,5 +1,3 @@
-TRUNCATE TABLE bsl_papers.attrs;
-
 INSERT 
 	INTO bsl_papers.attrs(id_attrs, author, title, journal, year, pages) 
 	VALUES ('1', 'Antony Matt, Mike Sallywan', 'Comparison of two measures', 'MGB journal London', '2007', '13--19');

@@ -6,7 +6,7 @@
 	       <Attr>text</Attr>
 	  </Attributes>
 	  <Database>
-	       <URL>jdbc:odbc:BSL_papers</URL>
+	       <URL>jdbc:mysql://localhost/bsl_papers</URL>
 	       <Login>root</Login>
 	       <Password>1111</Password>
 	       <ID_Attr>id_link</ID_Attr>
